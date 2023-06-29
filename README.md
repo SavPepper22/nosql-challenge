@@ -1,5 +1,5 @@
 # nosql-challenge
-Hello in this repository you will see that there is a Starter_Code file with two jupyter notebooks one is a NoSQL_setup_starter.ipynb  and the other an analysis_starter. There is a resource file inside the Starter_Code file that has the data used to make the dataframes in the jupyter notebooks.
+Hello in this repository you will see that there is a Starter_Code file with two jupyter notebooks one is a NoSQL_setup_starter.ipynb  and the other an NoSQL_analysis_starter.ipynb. There is a resource file inside the Starter_Code file that has the data used to make the dataframes in the jupyter notebooks.
 Finally you have the README file which you are reading right now. Hello!
 # Background
 The UK Food Standards Agency evaluates various establishments across the United Kingdom, and gives them a food hygiene rating. I've been contracted by the editors of a food magazine, Eat Safe, Love, to evaluate some of the ratings data in order to help their journalists and food critics decide where to focus future articles.
